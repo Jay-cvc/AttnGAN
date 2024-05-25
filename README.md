@@ -1,7 +1,7 @@
 # AttnGAN
  统计学习课程项目
 ## 在GUI上运行
- 在`code/text2imgGUI.py`中直接运行  
+ 在`code/attnganGUI.py`中直接运行  
  图片保存在`default_output`
 ## 在终端运行
  1、在`code`里面终端输入指令运行：鸟类运行`python main.py --cfg cfg/eval_bird.yml --gpu 0`；coco运行`python main.py --cfg cfg/eval_coco.yml --gpu 0`  
